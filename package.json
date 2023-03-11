@@ -1,0 +1,16 @@
+{
+  "name": "c214lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "validate": "^5.2.0",
+    "validate.js": "^0.13.1"
+  }
+}
